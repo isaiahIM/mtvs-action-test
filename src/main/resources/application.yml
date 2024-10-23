@@ -1,0 +1,5 @@
+spring:
+  application:
+  name: beansTalk-chunsik
+  profiles:
+    include: dev, local
